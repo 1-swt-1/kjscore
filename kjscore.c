@@ -243,9 +243,9 @@ void wyswietl(Zawodnik *head) { //funkcja drukująca całą kadrę na ekranie
         }
 
         printf("|================================================|\n");
-        printf("1. Sortuj po golach strzelonych\n");
-        printf("2. Sortuj alfabetycznie (po nazwisku)\n");
-        printf("0. Wyjscie\n");
+        printf("|1. Sortuj po golach strzelonych                 |\n");
+        printf("|2. Sortuj alfabetycznie (po nazwisku)           |\n");
+        printf("|0. Wyjscie                                      |\n");
         printf("|================================================|\n");
         printf("Wybieram: ");
         

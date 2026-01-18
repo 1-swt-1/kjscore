@@ -1,5 +1,11 @@
+imię:Eder nazwisko:Militao mecze:4 gole:1 asysty:2 stan_zdrowia:Kontuzja
+imię:Arda nazwisko:Guler mecze:14 gole:3 asysty:6 stan_zdrowia:Zdrowy
 imię:Kylian nazwisko:Mbappe mecze:14 gole:19 asysty:4 stan_zdrowia:Kontuzja
+imię:Fede nazwisko:Valverde mecze:15 gole:4 asysty:2 stan_zdrowia:Zdrowy
+imię:Raul nazwisko:Asencio mecze:12 gole:3 asysty:1 stan_zdrowia:Zdrowy
 imię:Jude nazwisko:Bellingham mecze:15 gole:3 asysty:2 stan_zdrowia:Zdrowy
 imię:Gonzalo nazwisko:Garcia mecze:5 gole:3 asysty:1 stan_zdrowia:Zdrowy
 imię:Rodrygo nazwisko:Goes mecze:9 gole:3 asysty:2 stan_zdrowia:Zdrowy
+imię:Aurelien nazwisko:Tchouameni mecze:17 gole:2 asysty:1 stan_zdrowia:Zdrowy
 imię:Trent nazwisko:Alexander-Arnold mecze:3 gole:0 asysty:2 stan_zdrowia:Kontuzja
+imię:Thibou nazwisko:Courtois mecze:18 gole:0 asysty:0 stan_zdrowia:Zdrowy

@@ -25,18 +25,33 @@ int main(int l_arg, char *lista_arg[]) { // l_arg -> ile argumentow zostało wpr
         wyczysc();
 
         //interfejs menu
-        printf("====KJSCORE====\n");
-        printf("==REAL MADRYT==\n");
-        printf("===============\n");
-        printf("OPCJE:\n");
-        printf("1. Wyświetl kadrę\n");
-        printf("2. Dodaj zawodnika\n");
-        printf("3. Usuń zawodnika\n");
-        printf("4. Wyszukaj(edycja)\n");
-        printf("5. Zapisz zmiany\n");
-        printf("0. Wyjdź\n");
-        printf("===============\n");
-        printf("Wybór:");
+        printf("|=======KJSCORE=======|\n");
+        printf("|=====Real Madryt=====|\n");
+        printf("|⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|\n");
+        printf("|⠀⠀⠀⠀⠀⣠⣤⣴⡾⠛⠛⠿⣦⣤⣄⡀⠀⠀⠀⠀⠀|\n");
+        printf("|⠀⠀⠀⢠⣾⠋⢹⡟⠀⠀⠀⠀⢹⣯⠙⢿⡄⠀⠀⠀⠀|\n");
+        printf("|⠀⠀⠀⠸⣧⣄⣨⣿⣶⣶⣶⣶⣾⣇⣀⣼⡇⠀⠀⠀⠀|\n");
+        printf("|⠀⠀⠀⠀⠈⣛⣭⣵⡶⠶⠶⢶⣦⣭⣛⠉⠀⠀⠀⠀⠀|\n");
+        printf("|⠀⠀⢀⣴⡿⠋⠉⠀⠀⠀⠀⠀⠀⠈⠙⠿⣦⡀⠀⠀⠀|\n");
+        printf("|⠀⣰⡿⠋⣠⡾⣷⣄⣀⣠⣀⣀⣀⣴⢷⣤⠈⢻⣦⠀⠀|\n");
+        printf("|⣰⡟⠀⣼⠟⢀⣼⠿⣿⣍⢉⣿⠿⣷⡄⠹⣷⡀⢻⣧⠀|\n");
+        printf("|⣿⠃⣸⡟⢀⣿⠃⠀⠈⠻⠟⠁⠀⠈⠀⠀⢹⣧⠀⣿⡄|\n");
+        printf("|⣿⠀⢿⡇⠸⣿⠀⠀⢰⣶⣶⡆⠀⠀⠀⠀⢸⣿⠀⣿⡇|\n");
+        printf("|⢿⡆⠸⣷⡀⢻⣦⡀⢸⡷⠶⠆⠀⣠⡀⠀⣼⡏⢠⣿⠀|\n");
+        printf("|⠘⣿⡄⠹⠗⠀⠙⠿⣿⣧⣤⣶⠿⠋⠀⠸⠟⢀⣾⠇⠀|\n");
+        printf("|⠀⠈⢿⣦⡀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⢀⣴⡿⠃⠀⠀|\n");
+        printf("|⠀⠀⠀⠙⠻⢶⣤⣄⣀⣀⣀⣀⣀⣤⣶⠿⠋⠀⠀⠀⠀|\n");
+        printf("|⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀|\n");
+        printf("|                     |\n");
+        printf("|=======OPCJE:========|\n");
+        printf("|1. Wyswietl kadre    |\n");
+        printf("|2. Dodaj zawodnika   |\n");
+        printf("|3. Usun zawodnika    |\n");
+        printf("|4. Wyszukaj(edycja)  |\n");
+        printf("|5. Zapisz zmiany     |\n");
+        printf("|0. Wyjdz             |\n");
+        printf("|=====================|\n");
+        printf("Wybieram: ");
 
         opcja = pobierz_int(0,5);
 
